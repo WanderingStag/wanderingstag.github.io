@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HelpInfo xmlns="http://schemas.microsoft.com/powershell/help/2010/05">
+  <HelpContentURI>https://wanderingstag.github.io/pshelp/PSMB/</HelpContentURI>
+  <SupportedUICultures>
+    <UICulture>
+      <CultureName>en-US</CultureName>
+      <UICultureVersion>1.0.0.0</UICultureVersion>
+      <URI>https://wanderingstag.github.io/pshelp/PSMB/en-US/</URI>
+    </UICulture>
+  </SupportedUICultures>
+  <Product>PSMB</Product>
+  <CompanyName>Wandering Stag</CompanyName>
+  <HelpInfoVersion>1.0.0.2</HelpInfoVersion>
+</HelpInfo>
