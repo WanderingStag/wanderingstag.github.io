@@ -1,2 +1,5 @@
+# MkDocs build output
 site/
+
+# macOS cruft
 .DS_Store
